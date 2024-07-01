@@ -1,2 +1,1 @@
-👋 Im ContentGamer I love programming!
-Im currently trying out haxeflixel!
+👋 Trying out linux, why are the fonts blurry lol
