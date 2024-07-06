@@ -8,3 +8,6 @@
 <a href="https://www.youtube.com/@realcontentgamer">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+<a href="https://x.com/ContentTheGamer">
+    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X (Twitter) Badge"/>
+  </a>
