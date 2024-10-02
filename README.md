@@ -6,11 +6,11 @@
   </a>
 </p>
 
-## OS
+### OS
 
 Linux (😎) Mint 21.3
 
-## Languages
+### Languages
 
 <table>
     <tr>
@@ -48,3 +48,24 @@ Linux (😎) Mint 21.3
 </table>
 
 <p>... And more</p>
+
+### Projects
+I don't push github projects lately.. so these are old projects.
+
+## [ExpressRS](https://crates.io/crates/expressrs)
+I don't recommend to use this because i have made some mistakes.. such as query parameters.
+
+## [Svelte Parser (For ExpressRS)](https://github.com/ContentGamer/svelte-parser)
+For the svelte lovers. (Compiles svelte to html, js, css (exists at the js code) for expressrs).
+
+## [SearchEngine](https://github.com/ContentGamer/searchengine)
+A search engine made in typescript with the help of JSDom and fetch.
+
+## [VaporScript](https://github.com/ContentGamer/vaporscript)
+A custom programming language made in rust.
+
+...More at my [profile](https://github.com/ContentGamer)
+
+### Status
+
+Working on a Lua interpreter, With a pratt parser and a RegExp lexer.
