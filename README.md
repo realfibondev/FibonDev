@@ -26,7 +26,7 @@ Linux (😎) Mint 21.3
         <td>Lua</td>
     </tr>
     <tr>
-        <td><img src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" width="20" alt="GoLang" /></td>
+        <td><img src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" width="25" alt="GoLang" /></td>
         <td>GoLang</td>
     </tr>
     <tr>
