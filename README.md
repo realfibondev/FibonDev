@@ -6,13 +6,13 @@ Linux (😎) Mint 21.3
 
 ## Languages
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" /> Rust
+<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" /> Rust
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /> Typescript
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-<img width="20" src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" /> GoLang
+<img width="25" src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" /> GoLang
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> Svelte
 
