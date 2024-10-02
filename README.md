@@ -14,7 +14,7 @@ Linux (😎) Mint 21.3
 
 <table>
     <tr>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="20" alt="Rust" /></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="25" alt="Rust" /></td>
         <td>Rust</td>
     </tr>
     <tr>
