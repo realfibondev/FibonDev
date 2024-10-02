@@ -12,7 +12,7 @@ Linux (😎) Mint 21.3
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-<img width="25" src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" /> GoLang
+<img width="30" src="https://www.logo.wine/a/logo/Go_(programming_language)/Go_(programming_language)-Logo.wine.svg" /> GoLang
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" /> Svelte
 
