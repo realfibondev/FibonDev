@@ -1,6 +1,10 @@
 <p align="center">I'm ContentGamer, a programmer that does everything.</p>
 
-<a herf="https://youtube.com/@realcontentgamer?sub_confirmation=1"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UClIg7IopwBXxeqwrRwhdw1A?style=for-the-badge" /></a>
+<p align="center">
+  <a href="https://youtube.com/@realcontentgamer?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UClIg7IopwBXxeqwrRwhdw1A?style=for-the-badge" />
+  </a>
+</p>
 
 ## OS
 
