@@ -70,4 +70,4 @@ A custom programming language made in rust.
 
 ### Status
 
-Working on a Lua interpreter, With a pratt parser and a RegExp lexer.
+Working on a Lua interpreter with type definitions and classes, Yes classes.
