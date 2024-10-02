@@ -1,6 +1,6 @@
 <p align="center">I'm ContentGamer, a programmer that does everything.</p>
 
-<img align="center" img="https://img.shields.io/youtube/channel/subscribers/UClIg7IopwBXxeqwrRwhdw1A?style=for-the-badge" />
+<img img="https://img.shields.io/youtube/channel/subscribers/UClIg7IopwBXxeqwrRwhdw1A?style=for-the-badge" />
 
 ## OS
 
