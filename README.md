@@ -66,7 +66,7 @@ A search engine made in typescript with the help of JSDom and fetch.
 ## [VaporScript](https://github.com/ContentGamer/vaporscript)
 A custom programming language made in rust.
 
-...More at my [profile](https://github.com/ContentGamer)
+...More at my [repositories](https://github.com/ContentGamer?tab=repositories)
 
 ### Status
 
