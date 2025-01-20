@@ -10,7 +10,8 @@
 
 ### OS
 
-Linux (😎) Mint 21.3
+~Linux (😎) Mint 21.3~
+Windows 11
 
 ### Languages
 
