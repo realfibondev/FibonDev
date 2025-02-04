@@ -10,7 +10,7 @@
 
 ### OS
 
-~Linux (😎) Mint 21.3~ <br/> Windows 11
+~Linux (😎) Mint 21.3~ <br/> ~Fedora~ <br/> ~Windows 11~ <br/> Arch Linux
 
 ### Languages
 
