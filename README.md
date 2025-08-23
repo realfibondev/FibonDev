@@ -1,4 +1,4 @@
-<p align="center">I'm ContentGamer, a programmer that does everything.</p>
+<p align="center">I'm ContentDev, a programmer that does everything.</p>
 
 <p align="center">
   <a href="https://youtube.com/@realcontentgamer?sub_confirmation=1">
