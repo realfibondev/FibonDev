@@ -1,4 +1,4 @@
-<p align="center">I'm ContentDev, a programmer that does everything.</p>
+<p align="center">I'm FibonDev, a programmer that does everything.</p>
 
 <p align="center">
   <a href="https://youtube.com/@realcontentgamer?sub_confirmation=1">
@@ -11,6 +11,11 @@
 ### OS
 
 ~Linux (😎) Mint 21.3~ <br/> ~Fedora~ <br/> ~Windows 11~ <br/> ~Arch Linux~ <br/> **Hyprland** (*DE*) - Arch Linux
+
+### Where does my name come from?
+
+**Fibon** is a shorthand for fibonacci (popular math pattern duh).
+**Dev** is well.. a shorthand for developer.
 
 ### Languages
 
