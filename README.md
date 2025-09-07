@@ -1,7 +1,7 @@
 <p align="center">I'm FibonDev, a programmer that does everything.</p>
 
 <p align="center">
-  <a href="https://youtube.com/@realcontentgamer?sub_confirmation=1">
+  <a href="https://youtube.com/@realcontentdev?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UClIg7IopwBXxeqwrRwhdw1A?style=for-the-badge" />
   </a>
 </p>
@@ -59,10 +59,9 @@
 
 ### Stats
 
-![Main Stats](https://github-readme-stats.vercel.app/api?username=realfibondev&show_icons=true&theme=dark)
-<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realfibondev&theme=dark)
-
+<br />
+![Main Stats](https://github-readme-stats.vercel.app/api?username=realfibondev&show_icons=true&theme=dark)
 
 ### Projects
 I don't push github projects lately.. so these are old projects.
