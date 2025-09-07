@@ -57,6 +57,8 @@
 
 <p>... And more</p>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=realfibondev&show_icons=true&theme=transparent)
+
 ### Projects
 I don't push github projects lately.. so these are old projects.
 
